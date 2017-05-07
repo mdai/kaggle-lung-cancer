@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.log
+nohup.out
+data/
+data_proc/
+data_supp/
+data_train/
+annotations/
+weights/
+predictions/
+submissions/
+redis_data/
+logs/

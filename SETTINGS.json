@@ -1,0 +1,13 @@
+{
+  "SAMPLE_DATA_PATH": "data/sample",
+  "STAGE1_DATA_PATH": "data/stage1",
+  "STAGE2_DATA_PATH": "data/stage2",
+  "STAGE1_LABELS_FILE_PATH": "data/stage1_labels.csv",
+  "STAGE1_SAMPLE_SUBMISSION_FILE_PATH": "data/stage1_sample_submission.csv",
+  "STAGE2_SAMPLE_SUBMISSION_FILE_PATH": "data/stage2_sample_submission.csv",
+  "SAMPLE_SUBMISSION_FILE_PATH": "data/sample_submission.csv",
+  "ANNOTATIONS_PATH": "annotations",
+  "MODEL_WEIGHTS_PATH": "weights",
+  "PREDICTIONS_PATH": "predictions",
+  "SUBMISSIONS_PATH": "submissions"
+}
